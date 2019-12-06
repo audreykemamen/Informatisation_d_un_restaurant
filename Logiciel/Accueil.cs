@@ -99,10 +99,15 @@ namespace Logiciel_de_restauration
             if (panel3.BackColor == Color.White)
             {
                 panel3.BackColor = Color.FromArgb(101, 120, 249);
-                bunifuImageButton2.ImageLocation = "D:\\Bureau\\Logiciel de restauration\\Resources\\person_at_home_96px.png";
+                bunifuImageButton2.Image = Properties.Resources.person_at_home_96px;
                 label2.ForeColor = Color.White;
 
             }
+        }
+
+        private void BunifuImageButton6_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

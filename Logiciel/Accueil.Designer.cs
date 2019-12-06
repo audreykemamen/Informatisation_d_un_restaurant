@@ -54,6 +54,8 @@
             this.bunifuDragControl1 = new Bunifu.Framework.UI.BunifuDragControl(this.components);
             this.bunifuSeparator2 = new Bunifu.Framework.UI.BunifuSeparator();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.menuChathégories3 = new Logiciel_de_restauration.MenuChathégories();
+            this.menuChathégories4 = new Logiciel_de_restauration.MenuChathégories();
             this.bunifuGradientPanel1 = new Bunifu.Framework.UI.BunifuGradientPanel();
             this.bunifuImageButton8 = new Bunifu.Framework.UI.BunifuImageButton();
             this.panel8 = new System.Windows.Forms.Panel();
@@ -62,8 +64,6 @@
             this.bunifuImageButton7 = new Bunifu.Framework.UI.BunifuImageButton();
             this.bunifuTextBox1 = new Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox();
             this.newOrder1 = new Logiciel_de_restauration.NewOrder();
-            this.menuChathégories3 = new Logiciel_de_restauration.MenuChathégories();
-            this.menuChathégories4 = new Logiciel_de_restauration.MenuChathégories();
             this.themeMenu61 = new Logiciel_de_restauration.ThemeMenu6();
             this.themeMenu11 = new Logiciel_de_restauration.ThemeMenu1();
             this.themeMenu21 = new Logiciel_de_restauration.ThemeMenu2();
@@ -170,6 +170,7 @@
             this.bunifuImageButton6.TabIndex = 2;
             this.bunifuImageButton6.TabStop = false;
             this.bunifuImageButton6.Zoom = 10;
+            this.bunifuImageButton6.Click += new System.EventHandler(this.BunifuImageButton6_Click);
             // 
             // label6
             // 
@@ -360,6 +361,22 @@
             this.flowLayoutPanel1.Size = new System.Drawing.Size(717, 508);
             this.flowLayoutPanel1.TabIndex = 6;
             // 
+            // menuChathégories3
+            // 
+            this.menuChathégories3.BackColor = System.Drawing.Color.White;
+            this.menuChathégories3.Location = new System.Drawing.Point(3, 3);
+            this.menuChathégories3.Name = "menuChathégories3";
+            this.menuChathégories3.Size = new System.Drawing.Size(306, 198);
+            this.menuChathégories3.TabIndex = 25;
+            // 
+            // menuChathégories4
+            // 
+            this.menuChathégories4.BackColor = System.Drawing.Color.White;
+            this.menuChathégories4.Location = new System.Drawing.Point(315, 3);
+            this.menuChathégories4.Name = "menuChathégories4";
+            this.menuChathégories4.Size = new System.Drawing.Size(306, 198);
+            this.menuChathégories4.TabIndex = 26;
+            // 
             // bunifuGradientPanel1
             // 
             this.bunifuGradientPanel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuGradientPanel1.BackgroundImage")));
@@ -489,22 +506,6 @@
             this.newOrder1.Name = "newOrder1";
             this.newOrder1.Size = new System.Drawing.Size(300, 677);
             this.newOrder1.TabIndex = 7;
-            // 
-            // menuChathégories3
-            // 
-            this.menuChathégories3.BackColor = System.Drawing.Color.White;
-            this.menuChathégories3.Location = new System.Drawing.Point(3, 3);
-            this.menuChathégories3.Name = "menuChathégories3";
-            this.menuChathégories3.Size = new System.Drawing.Size(306, 198);
-            this.menuChathégories3.TabIndex = 25;
-            // 
-            // menuChathégories4
-            // 
-            this.menuChathégories4.BackColor = System.Drawing.Color.White;
-            this.menuChathégories4.Location = new System.Drawing.Point(315, 3);
-            this.menuChathégories4.Name = "menuChathégories4";
-            this.menuChathégories4.Size = new System.Drawing.Size(306, 198);
-            this.menuChathégories4.TabIndex = 26;
             // 
             // themeMenu61
             // 
