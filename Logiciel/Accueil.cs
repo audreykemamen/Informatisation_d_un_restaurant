@@ -61,7 +61,7 @@ namespace Logiciel_de_restauration
             flowLayoutPanel1.Location = new Point(90, 164);
 
             bunifuImageButton2.ImageLocation = null;
-            bunifuImageButton2.ImageLocation = "D:\\Bureau\\Logiciel de restauration\\Resources\\home.png";
+            bunifuImageButton2.Image = Properties.Resources.person_at_home_96px;
             panel3.BackColor = Color.White;
             label2.ForeColor = Color.FromArgb(101, 120, 249);
             bunifuSeparator2.Width = 654 + 380;
@@ -69,7 +69,7 @@ namespace Logiciel_de_restauration
             if (panel2.BackColor == Color.White)
             {
                 panel2.BackColor = Color.FromArgb(101, 120, 249);
-                bunifuImageButton4.ImageLocation = "D:\\Bureau\\Logiciel de restauration\\Resources\\food_480px.png";
+                bunifuImageButton4.Image = Properties.Resources.food_480px;
                 label4.ForeColor = Color.White;
 
             }
@@ -92,7 +92,7 @@ namespace Logiciel_de_restauration
             bunifuSeparator2.Location = new Point(387, 156);
 
             bunifuImageButton4.ImageLocation = null;
-            bunifuImageButton4.ImageLocation = "D:\\Bureau\\Logiciel de restauration\\Resources\\Menu.png";
+            bunifuImageButton4.Image = Properties.Resources.menu_480px;
             panel2.BackColor = Color.White;
             label4.ForeColor = Color.FromArgb(101, 120, 249);
 
