@@ -96,65 +96,65 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Accueil.cs">
+    <Compile Include="Winform\Accueil.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Accueil.Designer.cs">
+    <Compile Include="Winform\Accueil.Designer.cs">
       <DependentUpon>Accueil.cs</DependentUpon>
     </Compile>
-    <Compile Include="AjouterUtilisateurComplet.cs">
+    <Compile Include="UserControl\Order\AjouterUtilisateurComplet.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="AjouterUtilisateurComplet.Designer.cs">
+    <Compile Include="UserControl\Order\AjouterUtilisateurComplet.Designer.cs">
       <DependentUpon>AjouterUtilisateurComplet.cs</DependentUpon>
     </Compile>
-    <Compile Include="Code_de_réduction.cs">
+    <Compile Include="UserControl\Delete_reduct_print\Code_de_réduction.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Code_de_réduction.Designer.cs">
+    <Compile Include="UserControl\Delete_reduct_print\Code_de_réduction.Designer.cs">
       <DependentUpon>Code_de_réduction.cs</DependentUpon>
     </Compile>
-    <Compile Include="Delete.cs">
+    <Compile Include="UserControl\Delete_reduct_print\Delete.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Delete.Designer.cs">
+    <Compile Include="UserControl\Delete_reduct_print\Delete.Designer.cs">
       <DependentUpon>Delete.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="Winform\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="Winform\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Interface1.cs" />
-    <Compile Include="ListeCommande.cs">
+    <Compile Include="UserControl\ListeCommande.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ListeCommande.Designer.cs">
+    <Compile Include="UserControl\ListeCommande.Designer.cs">
       <DependentUpon>ListeCommande.cs</DependentUpon>
     </Compile>
-    <Compile Include="LoginIncription.cs">
+    <Compile Include="Winform\LoginIncription.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="LoginIncription.Designer.cs">
+    <Compile Include="Winform\LoginIncription.Designer.cs">
       <DependentUpon>LoginIncription.cs</DependentUpon>
     </Compile>
-    <Compile Include="MenuChathégories.cs">
+    <Compile Include="UserControl\MenuChathégories.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="MenuChathégories.Designer.cs">
+    <Compile Include="UserControl\MenuChathégories.Designer.cs">
       <DependentUpon>MenuChathégories.cs</DependentUpon>
     </Compile>
-    <Compile Include="NewOrder.cs">
+    <Compile Include="UserControl\NewOrder.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="NewOrder.Designer.cs">
+    <Compile Include="UserControl\NewOrder.Designer.cs">
       <DependentUpon>NewOrder.cs</DependentUpon>
     </Compile>
-    <Compile Include="Print.cs">
+    <Compile Include="UserControl\Delete_reduct_print\Print.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Print.Designer.cs">
+    <Compile Include="UserControl\Delete_reduct_print\Print.Designer.cs">
       <DependentUpon>Print.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -164,82 +164,82 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="Recapitulatif_commande.cs">
+    <Compile Include="Winform\Recapitulatif_commande.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Recapitulatif_commande.Designer.cs">
+    <Compile Include="Winform\Recapitulatif_commande.Designer.cs">
       <DependentUpon>Recapitulatif_commande.cs</DependentUpon>
     </Compile>
-    <Compile Include="Recapitulatif_commande1.cs">
+    <Compile Include="UserControl\Order\Recapitulatif_commande1.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Recapitulatif_commande1.Designer.cs">
+    <Compile Include="UserControl\Order\Recapitulatif_commande1.Designer.cs">
       <DependentUpon>Recapitulatif_commande1.cs</DependentUpon>
     </Compile>
-    <Compile Include="ThemeMenu1.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu1.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ThemeMenu1.Designer.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu1.Designer.cs">
       <DependentUpon>ThemeMenu1.cs</DependentUpon>
     </Compile>
-    <Compile Include="ThemeMenu2.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu2.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ThemeMenu2.Designer.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu2.Designer.cs">
       <DependentUpon>ThemeMenu2.cs</DependentUpon>
     </Compile>
-    <Compile Include="ThemeMenu3.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu3.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ThemeMenu3.Designer.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu3.Designer.cs">
       <DependentUpon>ThemeMenu3.cs</DependentUpon>
     </Compile>
-    <Compile Include="ThemeMenu4.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu4.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ThemeMenu4.Designer.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu4.Designer.cs">
       <DependentUpon>ThemeMenu4.cs</DependentUpon>
     </Compile>
-    <Compile Include="ThemeMenu5.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu5.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ThemeMenu5.Designer.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu5.Designer.cs">
       <DependentUpon>ThemeMenu5.cs</DependentUpon>
     </Compile>
-    <Compile Include="ThemeMenu6.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu6.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ThemeMenu6.Designer.cs">
+    <Compile Include="UserControl\Cathégories_repas\ThemeMenu6.Designer.cs">
       <DependentUpon>ThemeMenu6.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Accueil.resx">
+    <EmbeddedResource Include="Winform\Accueil.resx">
       <DependentUpon>Accueil.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AjouterUtilisateurComplet.resx">
+    <EmbeddedResource Include="UserControl\Order\AjouterUtilisateurComplet.resx">
       <DependentUpon>AjouterUtilisateurComplet.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Code_de_réduction.resx">
+    <EmbeddedResource Include="UserControl\Delete_reduct_print\Code_de_réduction.resx">
       <DependentUpon>Code_de_réduction.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Delete.resx">
+    <EmbeddedResource Include="UserControl\Delete_reduct_print\Delete.resx">
       <DependentUpon>Delete.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
+    <EmbeddedResource Include="Winform\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ListeCommande.resx">
+    <EmbeddedResource Include="UserControl\ListeCommande.resx">
       <DependentUpon>ListeCommande.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="LoginIncription.resx">
+    <EmbeddedResource Include="Winform\LoginIncription.resx">
       <DependentUpon>LoginIncription.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MenuChathégories.resx">
+    <EmbeddedResource Include="UserControl\MenuChathégories.resx">
       <DependentUpon>MenuChathégories.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="NewOrder.resx">
+    <EmbeddedResource Include="UserControl\NewOrder.resx">
       <DependentUpon>NewOrder.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Print.resx">
+    <EmbeddedResource Include="UserControl\Delete_reduct_print\Print.resx">
       <DependentUpon>Print.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -247,28 +247,28 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Recapitulatif_commande.resx">
+    <EmbeddedResource Include="Winform\Recapitulatif_commande.resx">
       <DependentUpon>Recapitulatif_commande.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Recapitulatif_commande1.resx">
+    <EmbeddedResource Include="UserControl\Order\Recapitulatif_commande1.resx">
       <DependentUpon>Recapitulatif_commande1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ThemeMenu1.resx">
+    <EmbeddedResource Include="UserControl\Cathégories_repas\ThemeMenu1.resx">
       <DependentUpon>ThemeMenu1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ThemeMenu2.resx">
+    <EmbeddedResource Include="UserControl\Cathégories_repas\ThemeMenu2.resx">
       <DependentUpon>ThemeMenu2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ThemeMenu3.resx">
+    <EmbeddedResource Include="UserControl\Cathégories_repas\ThemeMenu3.resx">
       <DependentUpon>ThemeMenu3.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ThemeMenu4.resx">
+    <EmbeddedResource Include="UserControl\Cathégories_repas\ThemeMenu4.resx">
       <DependentUpon>ThemeMenu4.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ThemeMenu5.resx">
+    <EmbeddedResource Include="UserControl\Cathégories_repas\ThemeMenu5.resx">
       <DependentUpon>ThemeMenu5.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ThemeMenu6.resx">
+    <EmbeddedResource Include="UserControl\Cathégories_repas\ThemeMenu6.resx">
       <DependentUpon>ThemeMenu6.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
