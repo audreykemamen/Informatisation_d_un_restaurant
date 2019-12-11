@@ -60,7 +60,7 @@ namespace Logiciel_de_restauration
             flowLayoutPanel1.Width = 717 + 300;
             flowLayoutPanel1.Location = new Point(90, 164);
 
-            bunifuImageButton2.ImageLocation = null;
+            bunifuImageButton2.Image = null;
             bunifuImageButton2.Image = Properties.Resources.person_at_home_96px;
             panel3.BackColor = Color.White;
             label2.ForeColor = Color.FromArgb(101, 120, 249);
@@ -91,7 +91,7 @@ namespace Logiciel_de_restauration
             bunifuSeparator2.Width = 719;
             bunifuSeparator2.Location = new Point(387, 156);
 
-            bunifuImageButton4.ImageLocation = null;
+            bunifuImageButton4.Image = null;
             bunifuImageButton4.Image = Properties.Resources.menu_480px;
             panel2.BackColor = Color.White;
             label4.ForeColor = Color.FromArgb(101, 120, 249);
@@ -107,7 +107,8 @@ namespace Logiciel_de_restauration
 
         private void BunifuImageButton6_Click(object sender, EventArgs e)
         {
-
+            Recapitulatif_commande recapitulatif_Commande = new Recapitulatif_commande();
+            recapitulatif_Commande.Show();
         }
     }
 }
