@@ -1,0 +1,30 @@
+C:\Users\Audrey Kem'S\Desktop\Logiciel de restauration\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.csprojAssemblyReference.cache
+C:\Users\Audrey Kem'S\Desktop\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.BLL.dll
+C:\Users\Audrey Kem'S\Desktop\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.BLL.pdb
+C:\Users\Audrey Kem'S\Desktop\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.DAL.dll
+C:\Users\Audrey Kem'S\Desktop\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.DAL.pdb
+C:\Users\Audrey Kem'S\Desktop\Logiciel de restauration\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.csproj.CopyComplete
+C:\Users\Audrey Kem'S\Desktop\Logiciel de restauration\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.dll
+C:\Users\Audrey Kem'S\Desktop\Logiciel de restauration\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.pdb
+C:\Users\Audrey Kem'S\Desktop\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.BO.dll
+C:\Users\Audrey Kem'S\Desktop\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.BO.pdb
+C:\Users\Audrey Kem'S\Desktop\Evolution\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.BLL.dll
+C:\Users\Audrey Kem'S\Desktop\Evolution\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.BLL.pdb
+C:\Users\Audrey Kem'S\Desktop\Evolution\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.BO.dll
+C:\Users\Audrey Kem'S\Desktop\Evolution\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.DAL.dll
+C:\Users\Audrey Kem'S\Desktop\Evolution\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.BO.pdb
+C:\Users\Audrey Kem'S\Desktop\Evolution\Logiciel de restauration\ULTREEX.BLL\bin\Debug\ULTREEX.DAL.pdb
+C:\Users\Audrey Kem'S\Desktop\Evolution\Logiciel de restauration\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.csprojAssemblyReference.cache
+C:\Users\Audrey Kem'S\Desktop\Evolution\Logiciel de restauration\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.csproj.CopyComplete
+C:\Users\Audrey Kem'S\Desktop\Evolution\Logiciel de restauration\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.dll
+C:\Users\Audrey Kem'S\Desktop\Evolution\Logiciel de restauration\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.pdb
+C:\Users\Audrey Kem'S\Desktop\Evolution\Evo1\Informatisation_d_un_restaurant\Logiciel\ULTREEX.BLL\bin\Debug\ULTREEX.BLL.dll
+C:\Users\Audrey Kem'S\Desktop\Evolution\Evo1\Informatisation_d_un_restaurant\Logiciel\ULTREEX.BLL\bin\Debug\ULTREEX.BLL.pdb
+C:\Users\Audrey Kem'S\Desktop\Evolution\Evo1\Informatisation_d_un_restaurant\Logiciel\ULTREEX.BLL\bin\Debug\ULTREEX.BO.dll
+C:\Users\Audrey Kem'S\Desktop\Evolution\Evo1\Informatisation_d_un_restaurant\Logiciel\ULTREEX.BLL\bin\Debug\ULTREEX.DAL.dll
+C:\Users\Audrey Kem'S\Desktop\Evolution\Evo1\Informatisation_d_un_restaurant\Logiciel\ULTREEX.BLL\bin\Debug\ULTREEX.BO.pdb
+C:\Users\Audrey Kem'S\Desktop\Evolution\Evo1\Informatisation_d_un_restaurant\Logiciel\ULTREEX.BLL\bin\Debug\ULTREEX.DAL.pdb
+C:\Users\Audrey Kem'S\Desktop\Evolution\Evo1\Informatisation_d_un_restaurant\Logiciel\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.csprojAssemblyReference.cache
+C:\Users\Audrey Kem'S\Desktop\Evolution\Evo1\Informatisation_d_un_restaurant\Logiciel\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.csproj.CopyComplete
+C:\Users\Audrey Kem'S\Desktop\Evolution\Evo1\Informatisation_d_un_restaurant\Logiciel\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.dll
+C:\Users\Audrey Kem'S\Desktop\Evolution\Evo1\Informatisation_d_un_restaurant\Logiciel\ULTREEX.BLL\obj\Debug\ULTREEX.BLL.pdb
